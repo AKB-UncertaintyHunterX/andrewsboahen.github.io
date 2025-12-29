@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Download CV (Industry)
-[Download full CV as PDF]({{ site.baseurl }}/files/Boahen_CV_Internship.pdf)
+[Download full CV as PDF]({{ site.baseurl }}/files/Boahenan_CV_Internship.pdf)
 
  
 <!-- Or embed the PDF (full-page view) -->
