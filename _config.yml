@@ -22,7 +22,7 @@ repository               : "AKB-UncertaintyHunterX/andrewsboahen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Andrewsprofilepic"
+  avatar           : "Andrews.png"
   name             : "Andrews Boahen"
   pronouns         : "He/Him" 
   bio              : "Ph.D. Candidate, Department of Statistics & Probability"
@@ -91,7 +91,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true      #change to true to add link to talkmap on talks page
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
