@@ -13,6 +13,7 @@ Prior to my current position, I obtained a MSc. in Mathematical Sciences with di
 
 ## News
 
+<div class="news" markdown="1">
 - **[Aug 2025]** Selected as Graduate Student Instructional Leader in the [Department of Statistics & Probability](https://stt.natsci.msu.edu) at Michigan State University for Fall 2025.
 
 - **[Jul 2025]** Presented ongoing work *"Active Learning for Nonlinear Calibration"* in the special session [Statistical Design of Experiments](https://fjhickernell.github.io/mcm2025/downloads/MCM2025_Book_2025_08_09_06_54_28.pdf) at [MCM 2025](https://fjhickernell.github.io/mcm2025/).
@@ -27,7 +28,7 @@ Prior to my current position, I obtained a MSc. in Mathematical Sciences with di
 
 - **[Jun 2024]** Selected as a [Summer 2024 Sustainable Research Pathways (SRP) Fellow](https://shinstitute.org/andrews-boahen/) for an internship at [Sandia National Laboratories](https://www.sandia.gov).
 
-
+</div>
 
 
 
