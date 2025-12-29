@@ -22,7 +22,7 @@ repository               : "AKB-UncertaintyHunterX/andrewsboahen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "andrews.png"
+  avatar           : "images/themes/andrews.png"
   name             : "Andrews Boahen"
   pronouns         : "He/Him" 
   bio              : "Ph.D. Candidate, Department of Statistics & Probability"
