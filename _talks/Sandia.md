@@ -5,5 +5,5 @@ type: "Lightning Talk"
 permalink: /talks/Sandia
 venue: "Sandia National Laboratories"
 date: 2024-07-24
-location: "Alburqueque, NM, US"
+location: "Alburqueque, NM, USA"
 ---
