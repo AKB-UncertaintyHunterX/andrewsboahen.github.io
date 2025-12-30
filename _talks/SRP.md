@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Sustainable Research Pathways (SRP) Lightning Talks"
 collection: talks
 type: "Lightning Talk"
 permalink: /talks/SRP
