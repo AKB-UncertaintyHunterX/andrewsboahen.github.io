@@ -34,9 +34,13 @@ ul.breadcrumbs {
 
 /* Optional: even tighter */
 /* .news li { margin-bottom: 0.2rem; } */
-.publication-item {
-  display: flex;
-  align-items: flex-start;
+/* Remove top spacing inside numbered publications */
+.publication-item .archive__item {
+  margin-top: 0;
+}
+
+.publication-item .archive__item-title {
+  margin-top: 0;
 }
 
 .publication-number {
